@@ -1,3 +1,7 @@
+# this change is for the course ese5023 #
+
+x <- 1
+
 # This script is to (1) read daily satellite files, (2) prepare merge files, 
 # and (3) proceed daily oversampiling/regridding. 
 # This script generates daily RData, merge, and L3 RData files, 
